@@ -1,3 +1,5 @@
-Move the player with the up arrow key and down arrow key
+Run the index.html file in your browser to play the game.
 
-Fire with the Spacebar key
+Move the player with the up arrow key and down arrow key.
+
+Fire with the Spacebar key.
